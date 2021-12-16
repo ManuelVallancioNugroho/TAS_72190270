@@ -632,3 +632,11 @@ C:\Blazor\BlazorFrontEnd\obj\Debug\net5.0\BlazorFrontEnd.csproj.CopyComplete
 C:\Blazor\BlazorFrontEnd\obj\Debug\net5.0\BlazorFrontEnd.dll
 C:\Blazor\BlazorFrontEnd\obj\Debug\net5.0\ref\BlazorFrontEnd.dll
 C:\Blazor\BlazorFrontEnd\obj\Debug\net5.0\BlazorFrontEnd.pdb
+C:\Blazor\BlazorFrontEnd\obj\Debug\net5.0\RazorDeclaration\Pages\DetailStudent.razor.g.cs
+C:\Blazor\BlazorFrontEnd\obj\Debug\net5.0\Razor\Pages\DetailStudent.razor.g.cs
+C:\Blazor\BlazorFrontEnd\obj\Debug\net5.0\RazorDeclaration\Pages\EditStudent.razor.g.cs
+C:\Blazor\BlazorFrontEnd\obj\Debug\net5.0\Razor\Pages\EditStudent.razor.g.cs
+C:\Blazor\BlazorFrontEnd\obj\Debug\net5.0\RazorDeclaration\Pages\AddStudent.razor.g.cs
+C:\Blazor\BlazorFrontEnd\obj\Debug\net5.0\Razor\Pages\AddStudent.razor.g.cs
+C:\Blazor\BlazorFrontEnd\obj\Debug\net5.0\RazorDeclaration\Pages\DeleteStudent.razor.g.cs
+C:\Blazor\BlazorFrontEnd\obj\Debug\net5.0\Razor\Pages\DeleteStudent.razor.g.cs

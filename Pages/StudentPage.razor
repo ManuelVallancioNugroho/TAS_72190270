@@ -1,6 +1,6 @@
 @page "/studentpage"
 
-<h3>Daftar Student</h3>
+<h3>Daftar Student - Manuel Vallancio - 72190270</h3>
 
 <table class="table table-striped">
     <thead>
@@ -20,7 +20,10 @@
                 <td>@stu.LastName</td>
                 <td>@stu.FirstName</td>
                 <td>@stu.EnrollmentDate</td>
-              <td><a href="@($"departmentdetail/{stu.StudentId}")" class="btn btn-primary">details</a></td>
+              <td><a href="@($"studentdetail/{stu.StudentId}")" class="btn btn-info">details</a></td>
+                 <td><a href="@($"studentdetail/{stu.StudentId}")" class="btn btn-primary">enroll</a></td>
+                    <td><a href="@($"EditStudent/{stu.StudentId}")" class="btn btn-secondary m-1">Edit</a></td>
+                       <td><a href="@($"deletestudent/{stu.StudentId}")" class="btn btn-danger m-1">Delete</a></td>
             </tr>
             
         }

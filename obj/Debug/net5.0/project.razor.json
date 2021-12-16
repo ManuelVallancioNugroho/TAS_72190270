@@ -8,6 +8,112 @@
   "ProjectWorkspaceState": {
     "TagHelpers": [
       {
+        "HashCode": -785387737,
+        "Kind": "Components.Component",
+        "Name": "BlazorFrontEnd.Pages.DetailStudent",
+        "AssemblyName": "BlazorFrontEnd",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "DetailStudent"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "id",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "id"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorFrontEnd.Pages.DetailStudent"
+        }
+      },
+      {
+        "HashCode": -1137001869,
+        "Kind": "Components.Component",
+        "Name": "BlazorFrontEnd.Pages.DetailStudent",
+        "AssemblyName": "BlazorFrontEnd",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "BlazorFrontEnd.Pages.DetailStudent"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "id",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "id"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorFrontEnd.Pages.DetailStudent",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -666404252,
+        "Kind": "Components.Component",
+        "Name": "BlazorFrontEnd.Pages.EditStudent",
+        "AssemblyName": "BlazorFrontEnd",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "EditStudent"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Id",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Id"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorFrontEnd.Pages.EditStudent"
+        }
+      },
+      {
+        "HashCode": -747355343,
+        "Kind": "Components.Component",
+        "Name": "BlazorFrontEnd.Pages.EditStudent",
+        "AssemblyName": "BlazorFrontEnd",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "BlazorFrontEnd.Pages.EditStudent"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Id",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Id"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorFrontEnd.Pages.EditStudent",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": 14651529,
         "Kind": "Components.Component",
         "Name": "BlazorFrontEnd.Pages.StudentPage",
@@ -107,6 +213,112 @@
         }
       },
       {
+        "HashCode": -1315912601,
+        "Kind": "Components.Component",
+        "Name": "BlazorFrontEnd.Pages.AddStudent",
+        "AssemblyName": "BlazorFrontEnd",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "AddStudent"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Id",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Id"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorFrontEnd.Pages.AddStudent"
+        }
+      },
+      {
+        "HashCode": 1136132381,
+        "Kind": "Components.Component",
+        "Name": "BlazorFrontEnd.Pages.AddStudent",
+        "AssemblyName": "BlazorFrontEnd",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "BlazorFrontEnd.Pages.AddStudent"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Id",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Id"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorFrontEnd.Pages.AddStudent",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -1805324019,
+        "Kind": "Components.Component",
+        "Name": "BlazorFrontEnd.Pages.DeleteStudent",
+        "AssemblyName": "BlazorFrontEnd",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "DeleteStudent"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Id",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Id"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorFrontEnd.Pages.DeleteStudent"
+        }
+      },
+      {
+        "HashCode": 369352344,
+        "Kind": "Components.Component",
+        "Name": "BlazorFrontEnd.Pages.DeleteStudent",
+        "AssemblyName": "BlazorFrontEnd",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "BlazorFrontEnd.Pages.DeleteStudent"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Id",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Id"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorFrontEnd.Pages.DeleteStudent",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": -925283721,
         "Kind": "Components.Component",
         "Name": "BlazorFrontEnd.Pages.Index",
@@ -169,59 +381,6 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "BlazorFrontEnd.App",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -471968289,
-        "Kind": "Components.Component",
-        "Name": "BlazorFrontEnd.Shared.SurveyPrompt",
-        "AssemblyName": "BlazorFrontEnd",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "SurveyPrompt"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Title",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "Title"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorFrontEnd.Shared.SurveyPrompt"
-        }
-      },
-      {
-        "HashCode": -2131498731,
-        "Kind": "Components.Component",
-        "Name": "BlazorFrontEnd.Shared.SurveyPrompt",
-        "AssemblyName": "BlazorFrontEnd",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "BlazorFrontEnd.Shared.SurveyPrompt"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Title",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "Title"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorFrontEnd.Shared.SurveyPrompt",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -318,6 +477,59 @@
           "Runtime.Name": "Components.None",
           "Common.TypeName": "BlazorFrontEnd.Shared.MainLayout.Body",
           "Components.IsSpecialKind": "Components.ChildContent",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -471968289,
+        "Kind": "Components.Component",
+        "Name": "BlazorFrontEnd.Shared.SurveyPrompt",
+        "AssemblyName": "BlazorFrontEnd",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "SurveyPrompt"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Title",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Title"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorFrontEnd.Shared.SurveyPrompt"
+        }
+      },
+      {
+        "HashCode": -2131498731,
+        "Kind": "Components.Component",
+        "Name": "BlazorFrontEnd.Shared.SurveyPrompt",
+        "AssemblyName": "BlazorFrontEnd",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "BlazorFrontEnd.Shared.SurveyPrompt"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Title",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Title"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorFrontEnd.Shared.SurveyPrompt",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -13047,6 +13259,11 @@
       "FileKind": "component"
     },
     {
+      "FilePath": "c:\\Blazor\\BlazorFrontEnd\\Pages\\DeleteStudent.razor",
+      "TargetPath": "Pages\\DeleteStudent.razor",
+      "FileKind": "component"
+    },
+    {
       "FilePath": "c:\\Blazor\\BlazorFrontEnd\\Pages\\Counter.razor",
       "TargetPath": "Pages\\Counter.razor",
       "FileKind": "component"
@@ -13072,6 +13289,16 @@
       "FileKind": "component"
     },
     {
+      "FilePath": "c:\\Blazor\\BlazorFrontEnd\\Pages\\EditStudent.razor",
+      "TargetPath": "Pages\\EditStudent.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Blazor\\BlazorFrontEnd\\Pages\\DetailStudent.razor",
+      "TargetPath": "Pages\\DetailStudent.razor",
+      "FileKind": "component"
+    },
+    {
       "FilePath": "c:\\Blazor\\BlazorFrontEnd\\App.razor",
       "TargetPath": "App.razor",
       "FileKind": "component"
@@ -13079,6 +13306,11 @@
     {
       "FilePath": "c:\\Blazor\\BlazorFrontEnd\\Shared\\SurveyPrompt.razor",
       "TargetPath": "Shared\\SurveyPrompt.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Blazor\\BlazorFrontEnd\\Pages\\AddStudent.razor",
+      "TargetPath": "Pages\\AddStudent.razor",
       "FileKind": "component"
     },
     {

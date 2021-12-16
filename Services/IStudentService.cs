@@ -9,6 +9,10 @@ namespace BlazorFrontEnd.Services
     public interface IStudentService
     {
         Task<IEnumerable<Student>> GetAll();
-        Task<Student> GetById(string id);
+        Task<Student> GetById(int id);
+         Task<Student> Add(Student Student);
+
+       Task<Student> Update(int id,Student Student);
+          Task Delete(int id);
     }
 }
