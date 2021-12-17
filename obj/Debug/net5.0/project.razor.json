@@ -8,6 +8,112 @@
   "ProjectWorkspaceState": {
     "TagHelpers": [
       {
+        "HashCode": -1315912601,
+        "Kind": "Components.Component",
+        "Name": "BlazorFrontEnd.Pages.AddStudent",
+        "AssemblyName": "BlazorFrontEnd",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "AddStudent"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Id",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Id"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorFrontEnd.Pages.AddStudent"
+        }
+      },
+      {
+        "HashCode": 1136132381,
+        "Kind": "Components.Component",
+        "Name": "BlazorFrontEnd.Pages.AddStudent",
+        "AssemblyName": "BlazorFrontEnd",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "BlazorFrontEnd.Pages.AddStudent"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Id",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Id"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorFrontEnd.Pages.AddStudent",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -1805324019,
+        "Kind": "Components.Component",
+        "Name": "BlazorFrontEnd.Pages.DeleteStudent",
+        "AssemblyName": "BlazorFrontEnd",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "DeleteStudent"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Id",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Id"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorFrontEnd.Pages.DeleteStudent"
+        }
+      },
+      {
+        "HashCode": 369352344,
+        "Kind": "Components.Component",
+        "Name": "BlazorFrontEnd.Pages.DeleteStudent",
+        "AssemblyName": "BlazorFrontEnd",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "BlazorFrontEnd.Pages.DeleteStudent"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Id",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Id"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorFrontEnd.Pages.DeleteStudent",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": -785387737,
         "Kind": "Components.Component",
         "Name": "BlazorFrontEnd.Pages.DetailStudent",
@@ -147,39 +253,6 @@
         }
       },
       {
-        "HashCode": -1136219820,
-        "Kind": "Components.Component",
-        "Name": "BlazorFrontEnd.Pages.Counter",
-        "AssemblyName": "BlazorFrontEnd",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Counter"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorFrontEnd.Pages.Counter"
-        }
-      },
-      {
-        "HashCode": 887814855,
-        "Kind": "Components.Component",
-        "Name": "BlazorFrontEnd.Pages.Counter",
-        "AssemblyName": "BlazorFrontEnd",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "BlazorFrontEnd.Pages.Counter"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorFrontEnd.Pages.Counter",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
         "HashCode": 736686259,
         "Kind": "Components.Component",
         "Name": "BlazorFrontEnd.Pages.FetchData",
@@ -213,108 +286,35 @@
         }
       },
       {
-        "HashCode": -1315912601,
+        "HashCode": -1136219820,
         "Kind": "Components.Component",
-        "Name": "BlazorFrontEnd.Pages.AddStudent",
+        "Name": "BlazorFrontEnd.Pages.Counter",
         "AssemblyName": "BlazorFrontEnd",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "AddStudent"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Id",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "Id"
-            }
+            "TagName": "Counter"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorFrontEnd.Pages.AddStudent"
+          "Common.TypeName": "BlazorFrontEnd.Pages.Counter"
         }
       },
       {
-        "HashCode": 1136132381,
+        "HashCode": 887814855,
         "Kind": "Components.Component",
-        "Name": "BlazorFrontEnd.Pages.AddStudent",
+        "Name": "BlazorFrontEnd.Pages.Counter",
         "AssemblyName": "BlazorFrontEnd",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "BlazorFrontEnd.Pages.AddStudent"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Id",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "Id"
-            }
+            "TagName": "BlazorFrontEnd.Pages.Counter"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorFrontEnd.Pages.AddStudent",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -1805324019,
-        "Kind": "Components.Component",
-        "Name": "BlazorFrontEnd.Pages.DeleteStudent",
-        "AssemblyName": "BlazorFrontEnd",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "DeleteStudent"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Id",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "Id"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorFrontEnd.Pages.DeleteStudent"
-        }
-      },
-      {
-        "HashCode": 369352344,
-        "Kind": "Components.Component",
-        "Name": "BlazorFrontEnd.Pages.DeleteStudent",
-        "AssemblyName": "BlazorFrontEnd",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "BlazorFrontEnd.Pages.DeleteStudent"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Id",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "Id"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorFrontEnd.Pages.DeleteStudent",
+          "Common.TypeName": "BlazorFrontEnd.Pages.Counter",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -348,39 +348,6 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "BlazorFrontEnd.Pages.Index",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -1811844115,
-        "Kind": "Components.Component",
-        "Name": "BlazorFrontEnd.App",
-        "AssemblyName": "BlazorFrontEnd",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "App"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorFrontEnd.App"
-        }
-      },
-      {
-        "HashCode": 616971390,
-        "Kind": "Components.Component",
-        "Name": "BlazorFrontEnd.App",
-        "AssemblyName": "BlazorFrontEnd",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "BlazorFrontEnd.App"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorFrontEnd.App",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -563,6 +530,39 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "BlazorFrontEnd.Shared.NavMenu",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -1811844115,
+        "Kind": "Components.Component",
+        "Name": "BlazorFrontEnd.App",
+        "AssemblyName": "BlazorFrontEnd",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "App"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorFrontEnd.App"
+        }
+      },
+      {
+        "HashCode": 616971390,
+        "Kind": "Components.Component",
+        "Name": "BlazorFrontEnd.App",
+        "AssemblyName": "BlazorFrontEnd",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "BlazorFrontEnd.App"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorFrontEnd.App",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
