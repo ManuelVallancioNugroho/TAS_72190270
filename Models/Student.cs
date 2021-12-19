@@ -11,5 +11,10 @@ namespace BlazorFrontEnd.Models
         public string LastName { get; set; }
         public string FirstName { get; set; }
         public DateTime EnrollmentDate { get; set; }
+        public int EnrollmenId { get; set; }
+        public string Grade { get; set; }
+        public int CourseId  { get; set; }
+        public string Title  { get; set; }
+        public int Credits  { get; set; }
     }
 }

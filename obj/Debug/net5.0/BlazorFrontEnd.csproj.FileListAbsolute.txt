@@ -640,3 +640,5 @@ C:\Blazor\BlazorFrontEnd\obj\Debug\net5.0\build-gz\G8811vkg.gz
 C:\Blazor\BlazorFrontEnd\obj\Debug\net5.0\build-gz\CLzvAhwg.gz
 C:\Blazor\BlazorFrontEnd\obj\Debug\net5.0\build-gz\nZ8sZkui.gz
 C:\Blazor\BlazorFrontEnd\obj\Debug\net5.0\build-gz\O11blHxL.gz
+C:\Blazor\BlazorFrontEnd\obj\Debug\net5.0\RazorDeclaration\Pages\DetailEnrollment.razor.g.cs
+C:\Blazor\BlazorFrontEnd\obj\Debug\net5.0\Razor\Pages\DetailEnrollment.razor.g.cs

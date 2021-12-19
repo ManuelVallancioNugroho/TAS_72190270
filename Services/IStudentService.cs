@@ -12,7 +12,7 @@ namespace BlazorFrontEnd.Services
         Task<Student> GetById(int id);
          Task<Student> Add(Student Student);
 
-       Task<Student> Update(int id,Student Student);
+       Task<Student> Update(int id,Student student);
           Task Delete(int id);
     }
 }

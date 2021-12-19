@@ -9,6 +9,7 @@
             <th>Nama Belakang</th>
             <th>Nama Depan</th>
             <th>Tanggal Masuk</th>
+               <th>Tanggal Masuk</th>
             <th></th>
         </tr>
     </thead>
@@ -20,8 +21,9 @@
                 <td>@stu.LastName</td>
                 <td>@stu.FirstName</td>
                 <td>@stu.EnrollmentDate</td>
+
               <td><a href="@($"studentdetail/{stu.StudentId}")" class="btn btn-info">details</a></td>
-                 <td><a href="@($"studentdetail/{stu.StudentId}")" class="btn btn-primary">enroll</a></td>
+                 <td><a href=/detailenrollment class="btn btn-primary">enroll</a></td>
                     <td><a href="@($"EditStudent/{stu.StudentId}")" class="btn btn-secondary m-1">Edit</a></td>
                        <td><a href="@($"deletestudent/{stu.StudentId}")" class="btn btn-danger m-1">Delete</a></td>
             </tr>

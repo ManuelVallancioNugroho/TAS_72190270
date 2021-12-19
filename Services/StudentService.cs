@@ -31,9 +31,9 @@ namespace BlazorFrontEnd.Services
             var result = await _httpClient.GetFromJsonAsync<Student>($"api/Student/{id}");
             return result;
         }
-          public async Task<Student> Update(int id, Student Student)
+          public async Task<Student> Update(int id, Student student)
         {
-           var response = await _httpClient.PutAsJsonAsync($"api/Student/{id}",Student);
+           var response = await _httpClient.PutAsJsonAsync($"api/Student/{id}",student);
            if(response.IsSuccessStatusCode){
            return await JsonSerializer.DeserializeAsync<Student>(await response.Content.ReadAsStreamAsync());
            }
