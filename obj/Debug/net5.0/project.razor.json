@@ -114,6 +114,59 @@
         }
       },
       {
+        "HashCode": 792997101,
+        "Kind": "Components.Component",
+        "Name": "BlazorFrontEnd.Pages.DetailEnrollment",
+        "AssemblyName": "BlazorFrontEnd",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "DetailEnrollment"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "id",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "id"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorFrontEnd.Pages.DetailEnrollment"
+        }
+      },
+      {
+        "HashCode": -717443039,
+        "Kind": "Components.Component",
+        "Name": "BlazorFrontEnd.Pages.DetailEnrollment",
+        "AssemblyName": "BlazorFrontEnd",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "BlazorFrontEnd.Pages.DetailEnrollment"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "id",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "id"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorFrontEnd.Pages.DetailEnrollment",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": -785387737,
         "Kind": "Components.Component",
         "Name": "BlazorFrontEnd.Pages.DetailStudent",
@@ -253,39 +306,6 @@
         }
       },
       {
-        "HashCode": 736686259,
-        "Kind": "Components.Component",
-        "Name": "BlazorFrontEnd.Pages.FetchData",
-        "AssemblyName": "BlazorFrontEnd",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "FetchData"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorFrontEnd.Pages.FetchData"
-        }
-      },
-      {
-        "HashCode": 699870370,
-        "Kind": "Components.Component",
-        "Name": "BlazorFrontEnd.Pages.FetchData",
-        "AssemblyName": "BlazorFrontEnd",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "BlazorFrontEnd.Pages.FetchData"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorFrontEnd.Pages.FetchData",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
         "HashCode": -1136219820,
         "Kind": "Components.Component",
         "Name": "BlazorFrontEnd.Pages.Counter",
@@ -319,88 +339,35 @@
         }
       },
       {
-        "HashCode": 792997101,
+        "HashCode": 736686259,
         "Kind": "Components.Component",
-        "Name": "BlazorFrontEnd.Pages.DetailEnrollment",
+        "Name": "BlazorFrontEnd.Pages.FetchData",
         "AssemblyName": "BlazorFrontEnd",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "DetailEnrollment"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "id",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "id"
-            }
+            "TagName": "FetchData"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorFrontEnd.Pages.DetailEnrollment"
+          "Common.TypeName": "BlazorFrontEnd.Pages.FetchData"
         }
       },
       {
-        "HashCode": -717443039,
+        "HashCode": 699870370,
         "Kind": "Components.Component",
-        "Name": "BlazorFrontEnd.Pages.DetailEnrollment",
+        "Name": "BlazorFrontEnd.Pages.FetchData",
         "AssemblyName": "BlazorFrontEnd",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "BlazorFrontEnd.Pages.DetailEnrollment"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "id",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "id"
-            }
+            "TagName": "BlazorFrontEnd.Pages.FetchData"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorFrontEnd.Pages.DetailEnrollment",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -925283721,
-        "Kind": "Components.Component",
-        "Name": "BlazorFrontEnd.Pages.Index",
-        "AssemblyName": "BlazorFrontEnd",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Index"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorFrontEnd.Pages.Index"
-        }
-      },
-      {
-        "HashCode": 1748371806,
-        "Kind": "Components.Component",
-        "Name": "BlazorFrontEnd.Pages.Index",
-        "AssemblyName": "BlazorFrontEnd",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "BlazorFrontEnd.Pages.Index"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorFrontEnd.Pages.Index",
+          "Common.TypeName": "BlazorFrontEnd.Pages.FetchData",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
