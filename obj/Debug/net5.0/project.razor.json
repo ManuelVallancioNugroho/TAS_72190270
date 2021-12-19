@@ -372,6 +372,39 @@
         }
       },
       {
+        "HashCode": -925283721,
+        "Kind": "Components.Component",
+        "Name": "BlazorFrontEnd.Pages.Index",
+        "AssemblyName": "BlazorFrontEnd",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorFrontEnd.Pages.Index"
+        }
+      },
+      {
+        "HashCode": 1748371806,
+        "Kind": "Components.Component",
+        "Name": "BlazorFrontEnd.Pages.Index",
+        "AssemblyName": "BlazorFrontEnd",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "BlazorFrontEnd.Pages.Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorFrontEnd.Pages.Index",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": -1811844115,
         "Kind": "Components.Component",
         "Name": "BlazorFrontEnd.App",
