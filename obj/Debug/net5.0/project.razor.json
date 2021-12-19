@@ -114,7 +114,7 @@
         }
       },
       {
-        "HashCode": 792997101,
+        "HashCode": -2038954289,
         "Kind": "Components.Component",
         "Name": "BlazorFrontEnd.Pages.DetailEnrollment",
         "AssemblyName": "BlazorFrontEnd",
@@ -124,23 +124,13 @@
             "TagName": "DetailEnrollment"
           }
         ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "id",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "id"
-            }
-          }
-        ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "BlazorFrontEnd.Pages.DetailEnrollment"
         }
       },
       {
-        "HashCode": -717443039,
+        "HashCode": 1061757563,
         "Kind": "Components.Component",
         "Name": "BlazorFrontEnd.Pages.DetailEnrollment",
         "AssemblyName": "BlazorFrontEnd",
@@ -148,16 +138,6 @@
         "TagMatchingRules": [
           {
             "TagName": "BlazorFrontEnd.Pages.DetailEnrollment"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "id",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "id"
-            }
           }
         ],
         "Metadata": {

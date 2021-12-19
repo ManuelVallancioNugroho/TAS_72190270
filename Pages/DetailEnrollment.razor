@@ -3,6 +3,7 @@
 <h3>Show Enrollment</h3>
 <p>Manuel Vallancio - 72190270</p>
 
+ <a href="">Create New</a> 
 <table class="table table-striped">
     <thead>
         <tr>
@@ -32,6 +33,14 @@
                 <td>3</td>
                
                       </tr>
+                       @foreach (var stu in Student)
+        {
+            <tr>
+                <td>@stu.CourseId</td>
+                <td>@stu.Title</td>
+                <td>@stu.Credits</td>
+            </tr>
+        }
             
         
       

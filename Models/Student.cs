@@ -10,10 +10,11 @@ namespace BlazorFrontEnd.Models
     {
         public string StudentId { get; set; }
           [Required(ErrorMessage ="Student ID is required")]
-        public string LastName { get; set; }
-          [Required]
+      
         public string FirstName { get; set; }
          [Required]
+           public string LastName { get; set; }
+          [Required]
         public DateTime EnrollmentDate { get; set; }
          [Required]
         public int EnrollmenId { get; set; }

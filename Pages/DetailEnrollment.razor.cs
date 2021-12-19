@@ -10,17 +10,15 @@ using Microsoft.AspNetCore.Components;
 namespace BlazorFrontEnd.Pages
 {
     public partial class DetailEnrollment
-    {
-        [Parameter]
-         public string id { get; set; }
-         [Inject]
-         public IStudentService StudentService { get; set; }
-         public Student Student { get; set; } = new Student();
+     {
+        public List<Student> Student { get; set; } = new List<Student>();
 
-         protected override async Task OnInitializedAsync()
-         {
-             id = id ?? "1";
-             Student = await StudentService.GetById(int.Parse(id));
-         }
+        [Inject]
+        public IStudentService StudentService { get; set; }
+        
+        protected override async Task OnInitializedAsync()
+        {
+            Student = (await StudentService.GetAll()).ToList();
+        }
     }
 }
