@@ -1,14 +1,16 @@
 @page "/studentpage"
 
-<h3>Daftar Student - Manuel Vallancio - 72190270</h3>
+<h3>Daftar Student </h3>
+<p>Manuel Vallancio - 72190270</p>
 <a href="/addstudent" class="btn btn-primary">Create New</a>
 <table class="table table-striped">
     <thead>
         <tr>
             <th>Nim</th>
-            <th>Nama Belakang</th>
             <th>Nama Depan</th>
+            <th>Nama Belakang</th>
             <th>Tanggal Masuk</th>
+            <th>Action</th>
             <th></th>
         </tr>
     </thead>
@@ -16,15 +18,15 @@
         @foreach (var stu in Student)
         {
             <tr>
-                <td>@stu.StudentId</td>
-                <td>@stu.LastName</td>
+                <td>@stu.StudentId</td>           
                 <td>@stu.FirstName</td>
+                 <td>@stu.LastName</td>
                 <td>@stu.EnrollmentDate</td>
 
-              <td><a href="@($"studentdetail/{stu.StudentId}")" class="btn btn-info">details</a></td>
-                 <td><a href=/detailenrollment class="btn btn-primary">enroll</a></td>
-                    <td><a href="@($"EditStudent/{stu.StudentId}")" class="btn btn-secondary m-1">Edit</a></td>
-                       <td><a href="@($"deletestudent/{stu.StudentId}")" class="btn btn-danger m-1">Delete</a></td>
+              <td><a href="@($"studentdetail/{stu.StudentId}")" class="btn btn-info">details</a>
+               <a href=/detailenrollment class="btn btn-primary">enroll</a>
+                    <a href="@($"EditStudent/{stu.StudentId}")" class="btn btn-secondary m-1">Edit</a>
+                     <a href="@($"deletestudent/{stu.StudentId}")" class="btn btn-danger m-1">Delete</a></td>
             </tr>
             
         }

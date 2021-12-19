@@ -16,6 +16,7 @@ namespace BlazorFrontEnd.Pages
           public IStudentService StudentService { get; set; }
           [Inject]
           public NavigationManager NavigationManager { get; set; }
+          
            public List <Student> Students { get; set; } = new List<Student>();
          
           [Parameter]
@@ -24,7 +25,7 @@ namespace BlazorFrontEnd.Pages
           protected async override Task OnInitializedAsync()
         {
             Student = await StudentService.GetById(int.Parse(Id));
-          
+              Students = (await StudentService.GetAll()).ToList();
         }
 
     
